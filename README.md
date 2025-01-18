@@ -15,6 +15,7 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | ESOF | [Stock Overflow](https://github.com/pchmelo/ESOF_Project)  | The main objective of this project was to develop an application for the mobile environment. An application was created to help users manage their household inventory.                                                                                                 | 19.60        |
 | LCOM | [Suecalândia](https://github.com/pchmelo/LCOM_Projeto/tree/main)  | Project developed as part of the Computer Laboratory course. It involved the development of the Sueca card game for Minix.                                                                                             | 19.30        |
 | LTW | [Vintech](https://github.com/pchmelo/LTW_Project)  | Project developed as part of the Web Languages Laboratory course. It involved the creation of a website for buying and selling used technology products.                                                                                             | 16.90        |
+| RCOM | [File transfer via Serial Port](https://github.com/pchmelo/RCOM_Proj1)  | The objective of this project was to develop and test a data link protocol for transferring files through a serial port. The goal was to implement a reliable communication mechanism using the Stop-and-Wait protocol, ensuring error-free transmission of data between two devices.                                                                                                    | 18.40        |
 
 
 
