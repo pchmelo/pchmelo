@@ -19,6 +19,8 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | RCOM | [FTP Protocal and configure a computer network](https://github.com/pchmelo/RCOM_Proj2)  | The goal of this project was to develop and test a download program using FTP, as well as to configure a computer network, in accordance with the specifications outlined in the guidelines, with the final objective of transferring a file from the internet using the configured network.                                                                                                    | 19.00        |
 | LBAW | [New Flow](https://github.com/pchmelo/LBAW_Project)  | NewFlow is a news platform that connects authors and readers, making relevant information accessible in FEUP. We aim to create a community-driven space for sharing and engaging with news, prioritizing accuracy and transparency.   | 18.60        |
 | FSI | [Logbooks_CTF](https://github.com/pchmelo/FSI_logbooks_CTF)  | Logbooks and CTFs completed during the course.                                                                                                    | 19.00        |
+| IPC | [SunLite](https://github.com/pchmelo/IPC_project)  | Project developed within the scope of the Human-Computer Interaction. The developed project consisted of designing an application whose theme is energy.
+| 18.60        |
 
 
 
