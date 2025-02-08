@@ -22,7 +22,6 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | IPC | [SunLite](https://github.com/pchmelo/IPC_project)  | Project developed within the scope of the Human-Computer Interaction. The developed project consisted of designing an application whose theme is energy.| 18.60        |
 | PFL | [Grapths in Haskell](https://github.com/pchmelo/PFL_Project_1)  | In this project, two algorithms are implemented: one for finding all shortest paths between two cities using a BFS-based variant of Dijkstra's algorithm, and another for solving the Traveling Salesman Problem (TSP) using dynamic programming with bitmasking.                                                                                                    | 18.00        |
 | PFL | [Board Game in Prolog](https://github.com/pchmelo/PFL_Project_2)  | In this project, two algorithms are implemented: one for finding all shortest paths between two cities using a BFS-based variant of Dijkstra's algorithm, and another for solving the Traveling Salesman Problem (TSP) using dynamic programming with bitmasking.                                                                                                    | 18.50        |
-
 | MPSAC | [Mini-projetos de sistemas de aprendizagem e controlo](https://github.com/pchmelo/MPSAC_Project)  | In this project, we developed Doblin, a unique two-player board game implemented in SICStus Prolog.                                                                                                  |19.00        |
 
 
