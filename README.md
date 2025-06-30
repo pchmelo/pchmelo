@@ -25,6 +25,8 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | MPSAC | [Mini-projetos de sistemas de aprendizagem e controlo](https://github.com/pchmelo/MPSAC_Project)  | In this project, we developed Doblin, a unique two-player board game implemented in SICStus Prolog.                                                                                                  |19.00        |
 | AI | [First AI Project](https://github.com/pchmelo/AI_Project_1)  | This project focused on developing a Free Cell Solitaire game, including a graphical user interface, game modeling, and the implementation of various algorithms to solve the game                                                                                                |20.00        |
 | AI | [Second AI Project](https://github.com/pchmelo/AI_Project_2/tree/master)  | This project involved developing different models for loan prediction.                                                                                                |20.00        |
+| CGRAF | [CGRAF Project](https://github.com/pchmelo/CGRAF-Project/tree/main)  | CGRAF project                                                                                               |19.30        |
+
 
 
 
