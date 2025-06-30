@@ -26,6 +26,7 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | AI | [First AI Project](https://github.com/pchmelo/AI_Project_1)  | This project focused on developing a Free Cell Solitaire game, including a graphical user interface, game modeling, and the implementation of various algorithms to solve the game                                                                                                |20.00        |
 | AI | [Second AI Project](https://github.com/pchmelo/AI_Project_2/tree/master)  | This project involved developing different models for loan prediction.                                                                                                |20.00        |
 | CGRAF | [CGRAF Project](https://github.com/pchmelo/CGRAF-Project/tree/main)  | CGRAF project                                                                                               |19.30        |
+| COMP | [COMP Project](https://github.com/pchmelo/COMP_Project/tree/master)  | Java -- Compiler                                                                                        |18.00        |
 
 
 
