@@ -27,7 +27,7 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | AI | [Second AI Project](https://github.com/pchmelo/AI_Project_2/tree/master)  | This project involved developing different models for loan prediction.                                                                                                |20.00        |
 | CGRAF | [CGRAF Project](https://github.com/pchmelo/CGRAF-Project/tree/main)  | CGRAF project                                                                                               |19.30        |
 | COMP | [COMP Project](https://github.com/pchmelo/COMP_Project/tree/master)  | Java -- Compiler                                                                                        |18.00        |
-
+| CPD | [CPD Project](https://github.com/pchmelo/CPD_Projects) | The first assignment was to parallelize matrix multiplication, while the second assignment was to develop a client-server chat application with the ability to make context-aware queries to an LLM (Large Language Model) within the chat.                                                                                      |17.4/20.0 && 19.2/20.0        |
 
 
 
