@@ -29,7 +29,7 @@ Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do te
 | COMP | [COMP Project](https://github.com/pchmelo/COMP_Project/tree/master)  | Java -- Compiler                                                                                        |18.00        |
 | CPD | [CPD First Project](https://github.com/pchmelo/CPD_Projects/tree/main/assign1) | The first assignment was to parallelize matrix multiplication.                                                                                     |17.40   |
 | CPD | [COMP Second Project](https://github.com/pchmelo/CPD_Projects/tree/main/assign2)  | The second assignment was to develop a client-server chat application with the ability to make context-aware queries to an LLM (Large Language Model) within the chat.                                                                                     |19.20        |
-| PI | [PI Report](https://github.com/pchmelo/internship_report)  | Internship report                                                                                    |19        |
+| PI | [PI Report](https://github.com/pchmelo/internship_report)  | Internship report                                                                                    |19.00        |
 
 
 
