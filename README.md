@@ -1,5 +1,5 @@
 # Hi there
-#### I’m Vasco, and I hold a degree in Informatics and Computer Engineering (L.EIC) from the University of Porto. I am currently pursuing a Masterhttps://github.com/pchmelo/pchmelo/blob/main/README.md’s in Artificial Intelligence (M.IA) at the University of Porto.
+#### I’m Vasco, and I hold a degree in Informatics and Computer Engineering (L.EIC) from the University of Porto. I am currently pursuing a Master in Artificial Intelligence (M.IA) at the University of Porto.
 
 I intend to use this profile to showcase the projects/work I’ve done over time.
 
