@@ -1,8 +1,7 @@
-### Hi there
-#### Sou o Vasco e sou licenciado em Engenharia Informatica e Computadoes (L.EIC) da Universidade do Porto estou ingressado no Mestrado de Inteligência Artificial (M.IA) da Universidade do Porto.
-![O meu nome é Vasco e estou ingressado no curso da L.EIC da Universidade do Porto.]([https://upload.wikimedia.org/wikipedia/pt/2/2b/Feuporto.png](https://www.google.com/search?q=mestrado+inteligencia+artificial+up&client=opera-gx&hs=Btn&sca_esv=5b71cfa89013eb9f&udm=2&biw=1193&bih=568&sxsrf=AE3TifNaCxzJ6W448l-u1ktPBjW2UBfsSA%3A1757921585345&ei=McHHaOzsFKbci-gPr4f86Ac&ved=0ahUKEwisyYydoNqPAxUm7gIHHa8DH30Q4dUDCBE&uact=5&oq=mestrado+inteligencia+artificial+up&gs_lp=Egtnd3Mtd2l6LWltZyIjbWVzdHJhZG8gaW50ZWxpZ2VuY2lhIGFydGlmaWNpYWwgdXBIhRhQAFiPFnAAeACQAQCYAdwBoAHvBKoBBTIuMC4yuAEDyAEA-AEBmAIDoAKvBMICBRAAGIAEwgIEEAAYHpgDAJIHBTAuMS4yoAfME7IHBTAuMS4yuAevBMIHBTItMS4yyAcc&sclient=gws-wiz-img#vhid=cNP8Of5y0hahjM&vssid=mosaic)
+# Hi there
+#### I’m Vasco, and I hold a degree in Informatics and Computer Engineering (L.EIC) from the University of Porto. I am currently pursuing a Masterhttps://github.com/pchmelo/pchmelo/blob/main/README.md’s in Artificial Intelligence (M.IA) at the University of Porto.
 
-Pretendo colocar neste perfil os projetos/trabalhos que trabalhei ao longo do tempo. 
+I intend to use this profile to showcase the projects/work I’ve done over time.
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
