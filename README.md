@@ -3,6 +3,19 @@
 
 I intend to use this profile to showcase the projects/work I’ve done over time.
 
+## M.IA
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| ICD | [ICD Project](https://github.com/pchmelo/Data_Science_Project)  | This project contains several Jupyter Notebooks that explore fundamental data science concepts.                  |  17.00      |
+| AIS | [Ghost Search Bar](https://github.com/pchmelo/ghost-in-the-search-bar)  | The platform allows users to play a game inspired by Google Feud, guessing autocomplete predictions, and then participate in a survey about their experiences and opinions on search bias.   |  19.50      |
+| AIS | [Individual Assignment](https://github.com/pchmelo/AIS_Individual_Assignment)  | A Streamlit-based GUI application for evaluating datasets on data quality issues and fairness concerns using AI agents. |  19.90      |
+| TSI | [TSI Project](https://github.com/pchmelo/TSI_Project)  | Intelligent System for Industrial Equipment Failure Diagnosis |  13.40      |
+| MS | [GridAgent-Sim](https://github.com/pchmelo/GridAgent-Sim)  | The MS Household Energy Production project is an end-to-end simulation framework for testing RL-based household energy management with integrated modeling, training, and visualization. |  19.10     |
+
+
+
+## L.EIC
+
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | PROG | [Editor de Imagens](https://github.com/pchmelo/Projeto_prog)  | Project developed within the scope of the Programming course. It involved the development of features capable of manipulating images.                                                                                                    | 19.80        |
