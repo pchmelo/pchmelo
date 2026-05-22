@@ -6,6 +6,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 ## M.IA
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo.                  |  19.20      |
 | ICD | [ICD Project](https://github.com/pchmelo/Data_Science_Project)  | This project contains several Jupyter Notebooks that explore fundamental data science concepts.                  |  17.00      |
 | AIS | [Ghost Search Bar](https://github.com/pchmelo/ghost-in-the-search-bar)  | The platform allows users to play a game inspired by Google Feud, guessing autocomplete predictions, and then participate in a survey about their experiences and opinions on search bias.   |  19.50      |
 | AIS | [Individual Assignment](https://github.com/pchmelo/AIS_Individual_Assignment)  | A Streamlit-based GUI application for evaluating datasets on data quality issues and fairness concerns using AI agents. |  19.90      |
