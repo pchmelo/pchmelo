@@ -24,6 +24,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 | NLP | [NLP Project 2](https://github.com/pchmelo/NLP_Project_2)  | Three-class phishing/spam email classification using fine-tuned transformers (DistilBERT, RoBERTa, CyBERT) and LLM prompting (Qwen via Ollama)                  |  19.00      |
 | CAC | [CAC_Project](https://github.com/pchmelo/CAC_Project)  | GNN-based recommendation system and exploratory analysis (social network, time series) built on the Yelp Open Dataset                  |  18.00      |
 | ACPR | [ACPR_Project](https://github.com/pchmelo/ACPR-Project)  | Deepfake face detection and generative-model analysis toolkit that trains and evaluates CNNs, Vision Transformers, GANs, and Diffusion Models on the DeepFakeFace dataset                  |  18.50      |
+| VC | [VC_Project_1](https://github.com/pchmelo/VC_Project)  | Computer vision pipeline that detects a pool table and balls from images, then projects them into a bird's-eye top-down view via homography                  |  18.40      |
 
 
 
