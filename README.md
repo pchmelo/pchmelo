@@ -16,6 +16,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 | MS | [GridAgent-Sim](https://github.com/pchmelo/GridAgent-Sim)  | The MS Household Energy Production project is an end-to-end simulation framework for testing RL-based household energy management with integrated modeling, training, and visualization |  19.10     |
 
 ### 1YS2
+
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo                  |  19.20      |
@@ -25,6 +26,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 | CAC | [CAC_Project](https://github.com/pchmelo/CAC_Project)  | GNN-based recommendation system and exploratory analysis (social network, time series) built on the Yelp Open Dataset                  |  18.00      |
 | ACPR | [ACPR_Project](https://github.com/pchmelo/ACPR-Project)  | Deepfake face detection and generative-model analysis toolkit that trains and evaluates CNNs, Vision Transformers, GANs, and Diffusion Models on the DeepFakeFace dataset                  |  18.50      |
 | VC | [VC_Project_1](https://github.com/pchmelo/VC_Project)  | Computer vision pipeline that detects a pool table and balls from images, then projects them into a bird's-eye top-down view via homography                  |  18.40      |
+| VC | [VC_Project_2](https://github.com/pchmelo/VC_Project_2)  | Pool ball counter using deep learning regression — ResNet-18 and a custom CNN trained on annotated pool-table images, with 4-view TTA and a standalone inference script                  |  18.40      |
 
 
 
