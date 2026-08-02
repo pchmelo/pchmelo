@@ -20,6 +20,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo.                  |  19.20      |
 | NLP | [NLP Project 1](https://github.com/pchmelo/NLP_Project_1)  | This project build and evaluate models for classifying email messages as Ham, Phishing or Spam                  |  17.10      |
+| CAC | [CAC_Project](https://github.com/pchmelo/CAC_Project)  | GNN-based recommendation system and exploratory analysis (social network, time series) built on the Yelp Open Dataset.                  |  18.00      |
 
 ## L.EIC
 
