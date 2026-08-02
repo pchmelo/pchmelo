@@ -34,7 +34,6 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-
 | AED | [Horários FEUP](https://github.com/pchmelo/AED_project_1)  | The main objective of this project was to develop a terminal capable of analyzing, interpreting, and manipulating a dataset corresponding to FEUP students and their respective schedules.                                                                                                   | 18.10        |
 | AED | [FLIGHT-O-PEDIA](https://github.com/pchmelo/AED_project_2)  | The main objective of this project was to develop a terminal capable of analyzing and interpreting an air traffic network.                                                                                                 | 19.10        |
 | LDTS | [FINAL QUEST](https://github.com/pchmelo/Projeto_LDTS)  | This project was developed as part of the LDTS course. It consists of the development of a game in the Lantern graphical environment.                                                                                                    | 16.10        |
@@ -44,7 +43,6 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-
 | DA | [ADP](https://github.com/pchmelo/DA_project_1)  | This was the first project developed as part of the DA course. The main objective of this project was to develop a terminal capable of analyzing and interpreting a water network.                                                                                                    | 18.90        |
 | DA | [TSP](https://github.com/pchmelo/DA_project_2)  | This was the second project developed as part of the DA course. The main objective of this project was to develop and analyze different algorithms for the TSP (Traveling Salesman Problem).                                                                                                 | 18.90        |
 | ESOF | [Stock Overflow](https://github.com/pchmelo/ESOF_Project)  | The main objective of this project was to develop an application for the mobile environment. An application was created to help users manage their household inventory.                                                                                                 | 19.60        |
@@ -56,7 +54,6 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-
 | RCOM | [File transfer via Serial Port](https://github.com/pchmelo/RCOM_Proj1)  | The objective of this project was to develop and test a data link protocol for transferring files through a serial port. The goal was to implement a reliable communication mechanism using the Stop-and-Wait protocol, ensuring error-free transmission of data between two devices.                                                                                                    | 18.40        |
 | RCOM | [FTP Protocal and configure a computer network](https://github.com/pchmelo/RCOM_Proj2)  | The goal of this project was to develop and test a download program using FTP, as well as to configure a computer network, in accordance with the specifications outlined in the guidelines, with the final objective of transferring a file from the internet using the configured network.                                                                                                    | 19.00        |
 | LBAW | [New Flow](https://github.com/pchmelo/LBAW_Project)  | NewFlow is a news platform that connects authors and readers, making relevant information accessible in FEUP. We aim to create a community-driven space for sharing and engaging with news, prioritizing accuracy and transparency.   | 18.60        |
@@ -70,7 +67,6 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-
 | AI | [First AI Project](https://github.com/pchmelo/AI_Project_1)  | This project focused on developing a Free Cell Solitaire game, including a graphical user interface, game modeling, and the implementation of various algorithms to solve the game                                                                                                |20.00        |
 | AI | [Second AI Project](https://github.com/pchmelo/AI_Project_2/tree/master)  | This project involved developing different models for loan prediction.                                                                                                |20.00        |
 | CGRAF | [CGRAF Project](https://github.com/pchmelo/CGRAF-Project/tree/main)  | CGRAF project                                                                                               |19.30        |
