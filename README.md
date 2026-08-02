@@ -9,20 +9,23 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| ICD | [ICD Project](https://github.com/pchmelo/Data_Science_Project)  | This project contains several Jupyter Notebooks that explore fundamental data science concepts.                  |  17.00      |
-| AIS | [Ghost Search Bar](https://github.com/pchmelo/ghost-in-the-search-bar)  | The platform allows users to play a game inspired by Google Feud, guessing autocomplete predictions, and then participate in a survey about their experiences and opinions on search bias.   |  19.50      |
-| AIS | [Individual Assignment](https://github.com/pchmelo/AIS_Individual_Assignment)  | A Streamlit-based GUI application for evaluating datasets on data quality issues and fairness concerns using AI agents. |  19.90      |
+| ICD | [ICD Project](https://github.com/pchmelo/Data_Science_Project)  | This project contains several Jupyter Notebooks that explore fundamental data science concepts                  |  17.00      |
+| AIS | [Ghost Search Bar](https://github.com/pchmelo/ghost-in-the-search-bar)  | The platform allows users to play a game inspired by Google Feud, guessing autocomplete predictions, and then participate in a survey about their experiences and opinions on search bias   |  19.50      |
+| AIS | [Individual Assignment](https://github.com/pchmelo/AIS_Individual_Assignment)  | A Streamlit-based GUI application for evaluating datasets on data quality issues and fairness concerns using AI agents |  19.90      |
 | TSI | [TSI Project](https://github.com/pchmelo/TSI_Project)  | Intelligent System for Industrial Equipment Failure Diagnosis |  13.40      |
-| MS | [GridAgent-Sim](https://github.com/pchmelo/GridAgent-Sim)  | The MS Household Energy Production project is an end-to-end simulation framework for testing RL-based household energy management with integrated modeling, training, and visualization. |  19.10     |
+| MS | [GridAgent-Sim](https://github.com/pchmelo/GridAgent-Sim)  | The MS Household Energy Production project is an end-to-end simulation framework for testing RL-based household energy management with integrated modeling, training, and visualization |  19.10     |
 
 ### 1YS2
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo.                  |  19.20      |
+| TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo                  |  19.20      |
 | TRI | [TRI Project](https://github.com/pchmelo/TRI_Project)  | Curriculum-guided Soft Actor-Critic agent trained in Webots for zero-shot generalization across unseen F1-scale racing circuits, using progressively reduced observation regimes                  |  18.20      |
 | NLP | [NLP Project 1](https://github.com/pchmelo/NLP_Project_1)  | This project build and evaluate models for classifying email messages as Ham, Phishing or Spam                  |  17.10      |
 | NLP | [NLP Project 2](https://github.com/pchmelo/NLP_Project_2)  | Three-class phishing/spam email classification using fine-tuned transformers (DistilBERT, RoBERTa, CyBERT) and LLM prompting (Qwen via Ollama)                  |  19.00      |
-| CAC | [CAC_Project](https://github.com/pchmelo/CAC_Project)  | GNN-based recommendation system and exploratory analysis (social network, time series) built on the Yelp Open Dataset.                  |  18.00      |
+| CAC | [CAC_Project](https://github.com/pchmelo/CAC_Project)  | GNN-based recommendation system and exploratory analysis (social network, time series) built on the Yelp Open Dataset                  |  18.00      |
+| ACPR | [ACPR_Project](https://github.com/pchmelo/ACPR-Project)  | Deepfake face detection and generative-model analysis toolkit that trains and evaluates CNNs, Vision Transformers, GANs, and Diffusion Models on the DeepFakeFace dataset                  |  18.50      |
+
+
 
 ## L.EIC
 
