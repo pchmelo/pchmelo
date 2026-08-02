@@ -4,31 +4,59 @@
 I intend to use this profile to showcase the projects/work I’ve done over time.
 
 ## M.IA
+
+### 1YS1
+
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo.                  |  19.20      |
-| NLP | [NLP Project 1](https://github.com/pchmelo/NLP_Project_1)  | This project build and evaluate models for classifying email messages as Ham, Phishing or Spam                  |  17.10      |
 | ICD | [ICD Project](https://github.com/pchmelo/Data_Science_Project)  | This project contains several Jupyter Notebooks that explore fundamental data science concepts.                  |  17.00      |
 | AIS | [Ghost Search Bar](https://github.com/pchmelo/ghost-in-the-search-bar)  | The platform allows users to play a game inspired by Google Feud, guessing autocomplete predictions, and then participate in a survey about their experiences and opinions on search bias.   |  19.50      |
 | AIS | [Individual Assignment](https://github.com/pchmelo/AIS_Individual_Assignment)  | A Streamlit-based GUI application for evaluating datasets on data quality issues and fairness concerns using AI agents. |  19.90      |
 | TSI | [TSI Project](https://github.com/pchmelo/TSI_Project)  | Intelligent System for Industrial Equipment Failure Diagnosis |  13.40      |
 | MS | [GridAgent-Sim](https://github.com/pchmelo/GridAgent-Sim)  | The MS Household Energy Production project is an end-to-end simulation framework for testing RL-based household energy management with integrated modeling, training, and visualization. |  19.10     |
 
-
+### 1YS2
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| TRI | [TRI Assignment](https://github.com/pchmelo/TRI_Assignment)  | This project implements a two-wheeled differential drive robot with a 360º LIDAR sensor. It makes use of ROS2 and Gazebo.                  |  19.20      |
+| NLP | [NLP Project 1](https://github.com/pchmelo/NLP_Project_1)  | This project build and evaluate models for classifying email messages as Ham, Phishing or Spam                  |  17.10      |
 
 ## L.EIC
+
+### 1YS2
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | PROG | [Editor de Imagens](https://github.com/pchmelo/Projeto_prog)  | Project developed within the scope of the Programming course. It involved the development of features capable of manipulating images.                                                                                                    | 19.80        |
+
+
+### 2YS1
+
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+
 | AED | [Horários FEUP](https://github.com/pchmelo/AED_project_1)  | The main objective of this project was to develop a terminal capable of analyzing, interpreting, and manipulating a dataset corresponding to FEUP students and their respective schedules.                                                                                                   | 18.10        |
 | AED | [FLIGHT-O-PEDIA](https://github.com/pchmelo/AED_project_2)  | The main objective of this project was to develop a terminal capable of analyzing and interpreting an air traffic network.                                                                                                 | 19.10        |
 | LDTS | [FINAL QUEST](https://github.com/pchmelo/Projeto_LDTS)  | This project was developed as part of the LDTS course. It consists of the development of a game in the Lantern graphical environment.                                                                                                    | 16.10        |
+
+
+### 2YS2
+
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+
 | DA | [ADP](https://github.com/pchmelo/DA_project_1)  | This was the first project developed as part of the DA course. The main objective of this project was to develop a terminal capable of analyzing and interpreting a water network.                                                                                                    | 18.90        |
 | DA | [TSP](https://github.com/pchmelo/DA_project_2)  | This was the second project developed as part of the DA course. The main objective of this project was to develop and analyze different algorithms for the TSP (Traveling Salesman Problem).                                                                                                 | 18.90        |
 | ESOF | [Stock Overflow](https://github.com/pchmelo/ESOF_Project)  | The main objective of this project was to develop an application for the mobile environment. An application was created to help users manage their household inventory.                                                                                                 | 19.60        |
 | LCOM | [Suecalândia](https://github.com/pchmelo/LCOM_Projeto/tree/main)  | Project developed as part of the Computer Laboratory course. It involved the development of the Sueca card game for Minix.                                                                                             | 19.30        |
 | LTW | [Vintech](https://github.com/pchmelo/LTW_Project)  | Project developed as part of the Web Languages Laboratory course. It involved the creation of a website for buying and selling used technology products.                                                                                             | 16.90        |
+
+
+### 3YS1
+
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+
 | RCOM | [File transfer via Serial Port](https://github.com/pchmelo/RCOM_Proj1)  | The objective of this project was to develop and test a data link protocol for transferring files through a serial port. The goal was to implement a reliable communication mechanism using the Stop-and-Wait protocol, ensuring error-free transmission of data between two devices.                                                                                                    | 18.40        |
 | RCOM | [FTP Protocal and configure a computer network](https://github.com/pchmelo/RCOM_Proj2)  | The goal of this project was to develop and test a download program using FTP, as well as to configure a computer network, in accordance with the specifications outlined in the guidelines, with the final objective of transferring a file from the internet using the configured network.                                                                                                    | 19.00        |
 | LBAW | [New Flow](https://github.com/pchmelo/LBAW_Project)  | NewFlow is a news platform that connects authors and readers, making relevant information accessible in FEUP. We aim to create a community-driven space for sharing and engaging with news, prioritizing accuracy and transparency.   | 18.60        |
@@ -37,6 +65,12 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 | PFL | [Grapths in Haskell](https://github.com/pchmelo/PFL_Project_1)  | In this project, two algorithms are implemented: one for finding all shortest paths between two cities using a BFS-based variant of Dijkstra's algorithm, and another for solving the Traveling Salesman Problem (TSP) using dynamic programming with bitmasking.                                                                                                    | 18.00        |
 | PFL | [Board Game in Prolog](https://github.com/pchmelo/PFL_Project_2)  | In this project, two algorithms are implemented: one for finding all shortest paths between two cities using a BFS-based variant of Dijkstra's algorithm, and another for solving the Traveling Salesman Problem (TSP) using dynamic programming with bitmasking.                                                                                                    | 18.50        |
 | MPSAC | [Mini-projetos de sistemas de aprendizagem e controlo](https://github.com/pchmelo/MPSAC_Project)  | In this project, we developed Doblin, a unique two-player board game implemented in SICStus Prolog.                                                                                                  |19.00        |
+
+### 3YS2
+
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+
 | AI | [First AI Project](https://github.com/pchmelo/AI_Project_1)  | This project focused on developing a Free Cell Solitaire game, including a graphical user interface, game modeling, and the implementation of various algorithms to solve the game                                                                                                |20.00        |
 | AI | [Second AI Project](https://github.com/pchmelo/AI_Project_2/tree/master)  | This project involved developing different models for loan prediction.                                                                                                |20.00        |
 | CGRAF | [CGRAF Project](https://github.com/pchmelo/CGRAF-Project/tree/main)  | CGRAF project                                                                                               |19.30        |
