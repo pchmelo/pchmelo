@@ -23,17 +23,12 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 ## L.EIC
 
-### 1YS2
-
-| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
-|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| PROG | [Editor de Imagens](https://github.com/pchmelo/Projeto_prog)  | Project developed within the scope of the Programming course. It involved the development of features capable of manipulating images.                                                                                                    | 19.80        |
-
 
 ### 2YS1
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| PROG | [Editor de Imagens](https://github.com/pchmelo/Projeto_prog)  | Project developed within the scope of the Programming course. It involved the development of features capable of manipulating images.                                                                                                    | 19.80        |
 | AED | [Horários FEUP](https://github.com/pchmelo/AED_project_1)  | The main objective of this project was to develop a terminal capable of analyzing, interpreting, and manipulating a dataset corresponding to FEUP students and their respective schedules.                                                                                                   | 18.10        |
 | AED | [FLIGHT-O-PEDIA](https://github.com/pchmelo/AED_project_2)  | The main objective of this project was to develop a terminal capable of analyzing and interpreting an air traffic network.                                                                                                 | 19.10        |
 | LDTS | [FINAL QUEST](https://github.com/pchmelo/Projeto_LDTS)  | This project was developed as part of the LDTS course. It consists of the development of a game in the Lantern graphical environment.                                                                                                    | 16.10        |
