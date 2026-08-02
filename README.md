@@ -3,7 +3,7 @@
 
 I intend to use this profile to showcase the projects/work I’ve done over time.
 
-## M.IA
+## **M.IA**
 
 ### 1YS1
 
@@ -27,7 +27,7 @@ I intend to use this profile to showcase the projects/work I’ve done over time
 
 
 
-## L.EIC
+## **L.EIC**
 
 
 ### 2YS1
